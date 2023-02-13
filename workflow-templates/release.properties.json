@@ -1,9 +1,5 @@
 {
     "name": "Thelia module Auto-release Workflow",
     "description": "Automatically create new tag based on version in module.xml",
-    "iconName": "octicon broadcast",
-    "categories": [
-        "Symfony",
-        "deployment"
-    ]
+    "iconName": "octicon broadcast"
 }
