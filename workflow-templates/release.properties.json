@@ -1,0 +1,5 @@
+{
+    "name": "Thelia module Auto-release Workflow",
+    "description": "Automatically create new tag based on version in module.xml",
+    "iconName": "octicon megaphone"
+}
